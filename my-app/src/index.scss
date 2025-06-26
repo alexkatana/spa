@@ -1,0 +1,19 @@
+@import 'antd/dist/reset.css';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, sans-serif;
+}
+
+.page-wrapper {
+  padding: 20px;
+}
+
+.page-loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
