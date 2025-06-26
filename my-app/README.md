@@ -1,4 +1,4 @@
-## SPA
+# SPA
 
 ## Features
 - React 18
